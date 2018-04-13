@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/fr/gtm/dao/ClientDao.java=UTF-8
+encoding//src/main/java/fr/gtm/dao/CompteCourantDao.java=UTF-8
+encoding//src/main/java/fr/gtm/dao/CompteEpargneDao.java=UTF-8
+encoding//src/main/java/fr/gtm/dao/ConseillerDao.java=UTF-8
+encoding//src/main/java/fr/gtm/service/ClientService.java=UTF-8
+encoding//src/main/java/fr/gtm/service/CompteCourantService.java=UTF-8
+encoding//src/main/java/fr/gtm/service/CompteEpargneService.java=UTF-8
